@@ -10,7 +10,7 @@ An example report using markdown on Github. This documentation is writen using [
 
 _Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
-* Report artifacts are in [artifacts folder](https://github.com/exemploTrabalho/report/artifacts).
+* Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
 ## Galery
 
@@ -36,17 +36,17 @@ _Did you use any aditional libraries? Describe them here._
 * Laravel
 * Bootstrap
 
-## Artifacts (or the report)
+## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Project presentation
-* A1: [Project presentation](https://github.com/exemploTrabalho/report/artifacts/a1.md)
+* C1: [Project presentation](https://github.com/exemploTrabalho/report/doc/c1.md)
 ### User Interface 
-* A2: [User Interface Prototype and Sitemap](https://github.com/exemploTrabalho/report/artifacts/a2.md)
+* C2: [User Interface Prototype and Sitemap](https://github.com/exemploTrabalho/report/doc/c2.md)
 ### Product
-* A3: [Product](https://github.com/exemploTrabalho/report/artifacts/a3.md)
+* C3: [Product](https://github.com/exemploTrabalho/report/doc/c3.md)
 ### Presentation
-* A4: [Presentation](https://github.com/exemploTrabalho/report/artifacts/a4.md)
+* C4: [Presentation](https://github.com/exemploTrabalho/report/doc/c4.md)
 
 ## Team
 * Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
